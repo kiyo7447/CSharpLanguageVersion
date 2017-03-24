@@ -10,6 +10,7 @@ namespace CSharp7ConsoleApp
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
